@@ -10,6 +10,6 @@ See [mocap4ros2-setup](https://docs.optitrack.com/robotics/mocap4ros2-setup) for
 
 This demo contains code from a third party [mocap4ros2_optitrack](https://github.com/MOCAP4ROS2-Project/mocap4ros2_optitrack) which contains the original driver code using NatNet.
 
-You can find more information about using OptiTrack for robotics on the [official OptiTrack documentation](https://docs.optitrack.com/robotics). 
+You can find more information on the [official OptiTrack documentation](https://docs.optitrack.com/). 
 
 Feel free to submit issues or feature requests!
